@@ -4,7 +4,6 @@ This model predicts Microsoft stock prices using a Long Short-Term Memory (LSTM)
 
 #To make it work
   - Download the repo into your jupyter folder
-  - Download the dataset into the same work folder https://www.kaggle.com/datasets/rawaneid/microsoft-stock-market-2001-2021
   - Run the jupyter file by ```jupyter notebook```
 
 #Requirements (write the commands in command prompt if you are in windows)
