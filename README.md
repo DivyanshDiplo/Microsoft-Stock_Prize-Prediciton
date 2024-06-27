@@ -1,3 +1,4 @@
+
 # Microsoft-Stock_Prize-Prediciton
 This model predicts Microsoft stock prices using a Long Short-Term Memory (LSTM) neural network
 
@@ -11,4 +12,3 @@ This model predicts Microsoft stock prices using a Long Short-Term Memory (LSTM)
   - tenserflow ```pip install tensorflow```
   - Pandas ```pip install pandas```
   - Matplotlib ```pip install matplotlib```
-
